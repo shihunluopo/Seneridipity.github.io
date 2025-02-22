@@ -11,10 +11,7 @@ author: John Doe
 language: en
 timezone: ''
 
-deploy:
-  type: git
-  repo: https://github.com/shihunluopo/shihunluopo.github.io.git
-  branch: main
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
